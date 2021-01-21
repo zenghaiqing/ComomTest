@@ -1145,6 +1145,7 @@ namespace ComomTest
             InitDirectory(sBackupPath);
             InitDirectory(sBackupErrorPath);
 
+
             //DirectoryInfo folder = new DirectoryInfo(sFolderPath);
             //DateTime nowdate = DateTime.Now.AddSeconds(-1);
             //var files = folder.GetFiles().Where(p => File.GetCreationTime(p.FullName) <= nowdate && p.FullName.ToUpper().EndsWith($"{qsuffix.ToUpper()}"));
