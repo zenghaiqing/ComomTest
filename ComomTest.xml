@@ -1,0 +1,20 @@
+﻿<Chroma>
+  <简体中文>
+    <Message Name="OK" Value="确定" />
+    <Message Name="Factory" Value="厂别" />
+    <Message Name="Production Line" Value="生产线别" />
+    <Message Name="Terminal" Value="工作站" />
+    <Message Name="Process" Value="制程" />
+    <Message Name="Stage" Value="区段" />
+    <Message Name="Cancel" Value="取消" />
+    <Message Name="Station" Value="作业站" />
+    <Message Name="Part NO" Value="料号" />
+    <Message Name="Work Order" Value="工单" />
+    <Message Name="Config" Value="设置" />
+    <Message Name="Target QTY" Value="目标量" />
+    <Message Name="Test Temp" Value="测试模板" />
+    <Message Name="Config Info" Value="配置信息" />
+    <Message Name="Reset" Value="重置" />
+    
+  </简体中文>
+</Chroma>
